@@ -28,13 +28,5 @@ You can run everything in **Google Colab** (free GPU is enough), or locally with
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/tiny-transformer.git
+git clone https://github.com/yashwantbangde/tiny-transformer.git
 cd tiny-transformer
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-Or manually:
-
-```bash
-pip install transformers torch matplotlib seaborn pandas numpy bertviz
