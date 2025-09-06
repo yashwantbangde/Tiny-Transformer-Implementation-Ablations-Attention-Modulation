@@ -28,5 +28,5 @@ You can run everything in **Google Colab** (free GPU is enough), or locally with
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/yashwantbangde/tiny-transformer.git](https://github.com/yashwantbangde/Tiny-Transformer-Implementation-Ablations-Attention-Modulation.git)
+git clone https://github.com/yashwantbangde/Tiny-Transformer-Implementation-Ablations-Attention-Modulation.git
 cd tiny-transformer
