@@ -75,3 +75,9 @@ pip install transformers torch matplotlib seaborn pandas numpy bertviz
 - Residual connections are critical for stable training.
 - FFN layers add significant non-linearity and boost performance.
 - Distance-aware attention alters focus patterns, encouraging locality in token interactions.
+
+---
+
+## 📜 License
+This repository is for educational purposes only as part of the course assignment.
+Not intended for production use.
