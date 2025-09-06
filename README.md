@@ -13,16 +13,6 @@ This repo is a playground for learning, visualizing, and tweaking Transformers.
 
 ---
 
-## 📂 Project Structure
-📂 tiny-transformer
-├── tiny_transformer.ipynb # Notebook with implementation + experiments
-├── tiny_transformer.py # Core Python implementation
-├── report.pdf # Detailed writeup of methods and results
-├── README.md # Project docs
-└── requirements.txt # Dependencies
-
----
-
 ## ⚙️ Setup
 You can run everything in **Google Colab** (free GPU is enough), or locally with Python 3.9+.
 
