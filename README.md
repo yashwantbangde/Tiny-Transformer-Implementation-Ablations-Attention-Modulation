@@ -30,3 +30,7 @@ You can run everything in **Google Colab** (free GPU is enough), or locally with
 ```bash
 git clone https://github.com/yashwantbangde/Tiny-Transformer-Implementation-Ablations-Attention-Modulation.git
 cd tiny-transformer
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
