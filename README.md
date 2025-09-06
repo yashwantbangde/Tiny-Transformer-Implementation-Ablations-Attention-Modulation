@@ -30,12 +30,11 @@ You can run everything in **Google Colab** (free GPU is enough), or locally with
 ```bash
 git clone https://github.com/<your-username>/tiny-transformer.git
 cd tiny-transformer
-2. Install dependencies
-bash
-Copy code
+
+### 2. Install dependencies
+```bash
 pip install -r requirements.txt
 Or manually:
 
-bash
-Copy code
+```bash
 pip install transformers torch matplotlib seaborn pandas numpy bertviz
