@@ -23,10 +23,6 @@ cd tiny-transformer
 ```
 ### 2. Install dependencies
 ```
-pip install -r requirements.txt
-```
-Or manually:
-```
 pip install transformers torch matplotlib seaborn pandas numpy bertviz
 ```
 ---
