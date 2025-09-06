@@ -20,3 +20,22 @@ This repo is a playground for learning, visualizing, and tweaking Transformers.
 ├── report.pdf # Detailed writeup of methods and results
 ├── README.md # Project docs
 └── requirements.txt # Dependencies
+
+---
+
+## ⚙️ Setup
+You can run everything in **Google Colab** (free GPU is enough), or locally with Python 3.9+.
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/<your-username>/tiny-transformer.git
+cd tiny-transformer
+2. Install dependencies
+bash
+Copy code
+pip install -r requirements.txt
+Or manually:
+
+bash
+Copy code
+pip install transformers torch matplotlib seaborn pandas numpy bertviz
