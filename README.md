@@ -27,7 +27,7 @@ This repo is a playground for learning, visualizing, and tweaking Transformers.
 You can run everything in **Google Colab** (free GPU is enough), or locally with Python 3.9+.
 
 ### 1. Clone the repo
-```bash
+
 git clone https://github.com/yashwantbangde/Tiny-Transformer-Implementation-Ablations-Attention-Modulation.git
 cd tiny-transformer
 
